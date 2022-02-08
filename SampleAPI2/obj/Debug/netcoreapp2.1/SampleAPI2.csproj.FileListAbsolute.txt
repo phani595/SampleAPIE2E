@@ -1,0 +1,17 @@
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\SampleAPI2.deps.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\SampleAPI2.runtimeconfig.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\SampleAPI2.runtimeconfig.dev.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\SampleAPI2.dll
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\SampleAPI2.pdb
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.RazorAssemblyInfo.cache
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.RazorAssemblyInfo.cs
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.AssemblyInfoInputs.cache
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.AssemblyInfo.cs
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.RazorTargetAssemblyInfo.cache
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.dll
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.pdb
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\bin\Debug\netcoreapp2.1\appsecrets.json
+C:\Thotas\Drive Work\SampleAPIE2E\SampleAPI2\obj\Debug\netcoreapp2.1\SampleAPI2.csprojAssemblyReference.cache
